@@ -8,9 +8,10 @@ This code is a supplement to the place identity research of Moscow's Sviblovo di
 2. determining the main themes discussed in the commentaries to the anti-renovation petition subscriptions (the data for this part was gathered manually)
 3. determening the main place images and people's asocciations with their district using:  
   3.1. noun chunks with specific dependencies  
-  3.2. NER methodology
+  3.2. NER analysis
 
 ## Packages used:
-* Natasha libarary for NER and noun chunks
+* Natasha libarary for noun chunks
 * NLTK for stop-words list
 * scikitlearn for LDA-based topic modelling
+* Spacy for NER analysis
