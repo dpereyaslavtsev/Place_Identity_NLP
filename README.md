@@ -11,7 +11,6 @@ This code is a supplement to the place identity research of Moscow's Sviblovo di
   3.2. NER analysis
 
 ## Packages used:
-* Natasha libarary for noun chunks
+* Natasha libarary for noun chunks and NER
 * NLTK for stop-words list
 * scikitlearn for LDA-based topic modelling
-* Spacy for NER analysis
