@@ -14,3 +14,7 @@ This code is a supplement to the place identity research of Moscow's Sviblovo di
 * Natasha libarary for noun chunks and NER
 * NLTK for stop-words list
 * scikitlearn for LDA-based topic modelling
+
+## Included data:  
+* Petitsii_complete.csv — dataset containg unprocessed petition texts
+* Datasets containing wall posts and comments from analysed VK groups (.csv files with '-' prefix)
